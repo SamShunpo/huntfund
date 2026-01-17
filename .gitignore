@@ -7,3 +7,4 @@ build
 .vscode
 .idea
 supabase/functions/import_map.json
+kids-challenge-pwa/
